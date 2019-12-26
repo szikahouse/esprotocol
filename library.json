@@ -25,5 +25,5 @@
     }
   ],
   "frameworks": "arduino",
-  "platforms": "espressif"
+  "platforms": "espressif8266"
 }
