@@ -24,6 +24,9 @@
       "version": "^1.0.3"
     }
   ],
+  "build": {
+    "flags": "-D U_SPIFFS=100"
+  },
   "frameworks": "arduino",
   "platforms": "espressif8266"
 }
