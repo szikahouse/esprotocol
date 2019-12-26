@@ -9,11 +9,11 @@
   "dependencies": [
     {
       "name": "PubSubClient",
-      "version": "^2.7"
+      "version": "2.7"
     },
     {
       "name": "ArduinoJson",
-      "version": "^6.13.0"
+      "version": "6.13.0"
     },
     {
       "name": "WifiManager",
@@ -21,7 +21,7 @@
     },
     {
       "name": "ArduinoOTA",
-      "version": "^1.0.3"
+      "version": "1.0.1"
     }
   ],
   "frameworks": "arduino",
