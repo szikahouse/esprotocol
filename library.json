@@ -1,0 +1,11 @@
+{
+  "name": "ESProtocol",
+  "keywords": "esp, wifi, mqtt, ota",
+  "description": "ESP protocol over MQTT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/szikahouse/esprotocol.git"
+  },
+  "frameworks": "arduino",
+  "platforms": "espressif"
+}
