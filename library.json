@@ -6,6 +6,16 @@
     "type": "git",
     "url": "https://github.com/szikahouse/esprotocol.git"
   },
+  "dependencies": [
+    {
+      "name": "PubSubClient",
+      "version": "^2.7"
+    },
+    {
+      "name": "ArduinoOTA",
+      "version": "^1.0.3"
+    }
+  ],
   "frameworks": "arduino",
   "platforms": "espressif"
 }
