@@ -18,10 +18,6 @@
     {
       "name": "WifiManager",
       "version": "0.15.0-beta"
-    },
-    {
-      "name": "ArduinoOTA",
-      "version": "1.0.1"
     }
   ],
   "frameworks": "arduino",
